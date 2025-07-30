@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+yt-dlp
+pydub
+sounddevice
+numpy
+ffmpeg-python
+deep-translator
