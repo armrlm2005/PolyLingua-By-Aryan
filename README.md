@@ -6,9 +6,7 @@ PolyLingua is a powerful, user-friendly Streamlit-based application that enables
 
 ## 🔥 Demo
 
-![App Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
-
-Try it live: [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app) <!-- Optional if hosted -->
+[Watch demo video](https://youtu.be/weofTmTcQAM?si=cX__u4LO5Ep0E6x_)
 
 ---
 
@@ -109,7 +107,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - GitHub: [@armrlm2005](https://github.com/armrlm2005)
 - LinkedIn: [Aryan Mehta](https://linkedin.com/in/your-link) <!-- Optional -->
-- Email: your.email@example.com <!-- Optional -->
+- Email: armrlm200518@gmail.com <!-- Optional -->
 
 ---
 
